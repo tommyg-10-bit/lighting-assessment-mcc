@@ -41,11 +41,9 @@ wheels/
 *.egg
 
 # Generated reports and temporary files
-Merged_*.pdf
 Summarized_*.pdf
 summary_temp.pdf
 temp_*.pdf
-updated_*.csv
 
 # OS
 Thumbs.db
